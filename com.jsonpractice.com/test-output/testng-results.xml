@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102" started-at="2017-02-19T06:28:37Z" finished-at="2017-02-19T06:28:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102" started-at="2017-02-19T06:28:37Z" finished-at="2017-02-19T06:28:38Z">
+      <class name="com.dataprovider.pracice.ConvertHashMapToObject">
+        <test-method status="PASS" signature="displaydata(int, java.util.ArrayList)[pri:0, instance:com.dataprovider.pracice.ConvertHashMapToObject@d70c109]" name="displaydata" duration-ms="40" started-at="2017-02-18T22:28:38Z" data-provider="GoodData" finished-at="2017-02-18T22:28:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[srini, bujji, chitti]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaydata -->
+        <test-method status="PASS" signature="displaydata(int, java.util.ArrayList)[pri:0, instance:com.dataprovider.pracice.ConvertHashMapToObject@d70c109]" name="displaydata" duration-ms="3" started-at="2017-02-18T22:28:38Z" data-provider="GoodData" finished-at="2017-02-18T22:28:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[55]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[nani, kanna, baby]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaydata -->
+        <test-method status="PASS" signature="displaydata(int, java.util.ArrayList)[pri:0, instance:com.dataprovider.pracice.ConvertHashMapToObject@d70c109]" name="displaydata" duration-ms="2" started-at="2017-02-18T22:28:38Z" data-provider="GoodData" finished-at="2017-02-18T22:28:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[vara, vijji, test]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaydata -->
+      </class> <!-- com.dataprovider.pracice.ConvertHashMapToObject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
